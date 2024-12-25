@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ozlevy/Downloads/ValidationProject/src/main/scala/il/ac/hit/validation/Main.scala:7:72: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String("15")[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val user1:User = new User("haim","haim.michael@gmail.il","abc123", "15")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
